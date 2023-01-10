@@ -3,16 +3,14 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
-        debitis est autem aperiam necessitatibus beatae assumenda illo rem
-        architecto quis dolor quae.
+        Olá, me chamo Marcus Vinicius, tenho 22 anos e atualmente trabalhando como Desenvolvedor Front-End.
       </p>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos veritatis
-        aperiam, odit nihil placeat, dolorum sequi reprehenderit fugiat,
-        distinctio provident impedit modi neque sapiente voluptate voluptates.
-        Maiores sint at dolores?
+       +1 ano de experiência no desenvolvimento de software apaixonado por tecnologia,
+       nesse período trabalhando como desenvolvedor web com experiência e rápida produtividade no desenvolvimento de layouts baseados no figma.
+       Atualmente trabalhando em uma empresa de software desenvolvendo novas funcionalidades para uma plataforma de e-commerce,
+       aplicações de sistema de pagamentos online.
+
       </p>
     </section>
   );
